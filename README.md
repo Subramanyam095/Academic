@@ -1,2 +1,2 @@
 # Academic
-I have joined a data science program and learned various skills, including MS Excel, MS SQL, Python, machine learning, and Tableau for data visualization.
+I have joined a Data Analyst program and learned various skills, including MS Excel, MS SQL, Python, and Tableau for data visualization.
